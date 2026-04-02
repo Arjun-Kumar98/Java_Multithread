@@ -1,2 +1,2 @@
 # Java_Multithread
-Java  thread practice
+Java concurrency practice repository covering multithreading, synchronization, executors, and concurrent design patterns with runnable examples.
